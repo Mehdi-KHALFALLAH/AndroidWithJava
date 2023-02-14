@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <string name="tab_text_1">Speed Dial</string>
+    <string name="tab_text_2">Recents</string>
+    <string name="tab_text_3">Contacts</string>
 </resources>
